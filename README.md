@@ -1,6 +1,6 @@
 # Utopia
 Utopia - possibly the world's shittiest gaming console
-
+_______________
 Hardware:
 - Arduino Uno
 - joystick
@@ -12,7 +12,7 @@ see hardware.jpg for connections etc.
 
 see utopia.ino file for comments / necessary libraries etc.
 _______________
-- How to play -
+How to play
 
 #0: Menu
 - Move the joystick left/right, then press to choose one of three apps:
@@ -29,5 +29,5 @@ _______________
 - Move the joystick up/down to scroll
 
 _________
-- Notes -
+Notes
 Available under the MIT License
