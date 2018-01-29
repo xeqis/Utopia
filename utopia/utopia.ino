@@ -1,7 +1,5 @@
 // UTOPIA
 // 2018 by Daan Henderson
-// www.gamesbeyondlogic.com
-// feel free to use / fork / improve as you like, but please give credit when doing so
 
 #include <Wire.h>
 #include <Adafruit_SSD1306.h>
