@@ -8,7 +8,7 @@ Hardware:
 - 128x64px display
 - a dozen or so jumper wires
 
-see hardware.jpg for connections etc.
+see hardware.jpg for parts, connections etc.
 
 see utopia.ino file for comments / necessary libraries etc.
 _______________
