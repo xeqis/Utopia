@@ -29,5 +29,6 @@ How to play
 - Move the joystick up/down to scroll
 
 _________
-Notes
+Notes:
+
 Available under the MIT License
