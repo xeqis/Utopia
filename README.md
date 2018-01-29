@@ -30,5 +30,5 @@ How to play
 
 _________
 Notes:
-
+2018 by Daan Henderson
 Available under the MIT License
